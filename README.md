@@ -1,19 +1,8 @@
 # Hi there, I'm [Your Name]! 👋
 
-<div style="display: flex; justify-content: space-around; margin-bottom: 20px; width: 100%;">
-  <a href="https://linkedin.com/in/yourprofile" style="text-decoration: none; margin: 10px;width:100%;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 100%; max-width: 250px; height: 60px; ">
-  </a>
-  <a href="mailto:your.email@example.com" style="text-decoration: none; margin: 10px;width:100%;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="width: 100%; max-width: 250px; height: 60px; object-fit: cover;">
-  </a>
-  <a href="https://yourwebsite.com" style="text-decoration: none; margin: 10px;width:100%;">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" style="width: 100%; max-width: 250px; height: 60px; ">
-  </a>
-  <a href="https://yourresume.com" style="text-decoration: none; margin: 10px;width:100%;">
-    <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" style="width: 100%; max-width: 250px; height: 60px; ">
-  </a>
-</div>
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayakverma) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:verma.31@iitj.ac.in) | [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](vinayakverma.me) | [![Resume](https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://yourresume.com) |
+| --- | --- | --- | --- |
+
 
 ## About Me
 
