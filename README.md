@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Vinayak! 👋
 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayakverma) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:verma.31@iitj.ac.in) | [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](vinayakverma.me) | [![Resume](https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://yourresume.com) |
 | --- | --- | --- | --- |
