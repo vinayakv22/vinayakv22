@@ -1,7 +1,29 @@
 # Hi there, I'm Vinayak! 👋
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayakverma) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:verma.31@iitj.ac.in) | [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](vinayakverma.me) | [![Resume](https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://yourresume.com) |
-| --- | --- | --- | --- |
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: center; width: 25%;">
+      <a href="https://linkedin.com/in/yourprofile" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 100%; max-width: 250px; height: 60px;">
+      </a>
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <a href="mailto:your.email@example.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="width: 100%; max-width: 250px; height: 60px;">
+      </a>
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <a href="https://yourwebsite.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" style="width: 100%; max-width: 250px; height: 60px;">
+      </a>
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <a href="https://yourresume.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" style="width: 100%; max-width: 250px; height: 60px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## About Me
