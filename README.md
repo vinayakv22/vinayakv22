@@ -35,6 +35,7 @@ I am a driven and detail-oriented aspiring Electrical Engineer. With a passion f
 - **Programming Languages:** Python, C\C++
 - **App & Web Development:** HTML, CSS, React, Dart
 - **Data Science:** Pandas, NumPy, SciPy, Plotly
+- **Machine Learning Frameworks:** Pytorch, Tensorflow
 - **Tools & Platforms:** Git, Docker, Linux, Flutter
 
 
