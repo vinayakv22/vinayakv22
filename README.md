@@ -3,17 +3,17 @@
 <table style="width: 100%;">
   <tr>
     <td style="text-align: center; width: 25%;">
-      <a href="https://linkedin.com/in/yourprofile" style="text-decoration: none;">
+      <a href="https://www.linkedin.com/in/vinayakverma/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 100%; max-width: 250px; height: 60px;">
       </a>
     </td>
     <td style="text-align: center; width: 25%;">
-      <a href="mailto:your.email@example.com" style="text-decoration: none;">
+      <a href="mailto:vinayakv22@gmail.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="width: 100%; max-width: 250px; height: 60px;">
       </a>
     </td>
     <td style="text-align: center; width: 25%;">
-      <a href="https://yourwebsite.com" style="text-decoration: none;">
+      <a href="https://vinayakv22.github.io" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" style="width: 100%; max-width: 250px; height: 60px;">
       </a>
     </td>
